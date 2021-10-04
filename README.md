@@ -7,7 +7,7 @@ This is the link ([https://eager-jang-2b34c9.netlify.app]) to my site.
 1. You can Learn the instrument of Your choice with this site.
 2. We have very good quality masters to teach the students.
 3. All of the officials here are very active. 
-4. 
+4. Music is good for the mind. So We work with care.
 
 # Site Description :
 

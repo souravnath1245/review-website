@@ -24,7 +24,7 @@ const Service = (props) => {
   </ListGroup>
   <Card.Body>
     <Card.Link href="/cart">Add To Cart</Card.Link>
-    <Card.Link href="/serviceProduct">Other Services</Card.Link>
+    <Card.Link href="/serviceDetail">Other Services</Card.Link>
   </Card.Body>
 </Card> 
             
