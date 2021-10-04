@@ -1,3 +1,21 @@
+# RYTHOM 
+
+This is the link () to my site.
+
+# Benefit of the site:
+
+1. You can Learn the instrument of Your choice with this site.
+2. We have very good quality masters to teach the students.
+3. All of the officials here are very active. 
+4. 
+
+# Site Description :
+
+ Rythom is a platform where boys and girls can easily learn music an online. You can easily learn any musical instrument with it. You can get all the service here at affordable price. So sign up to our website without delay and stay with us.
+
+We hope this site will not disappoint you.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
