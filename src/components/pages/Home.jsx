@@ -1,10 +1,15 @@
-import React from "react";
 import { Carousel } from "react-bootstrap";
 import "./Page.css";
+import useService from "../Data/serviceDb";
+import Service from "./Service";
 
 const Home = () => {
+  const [services] = useService();
+
   return (
+
     <div className="home-background">
+      {/*===================================== Using  Carousel ffrom react bootstrap  */}
       <div className="header-section">
         <Carousel>
           <Carousel.Item>
@@ -49,8 +54,10 @@ const Home = () => {
           </Carousel.Item>
         </Carousel>
       </div>
+      {/*============================================= Main Section Start  */}
       <div className="main-section">
         <div className="welcome-section">
+          {/*======================================== WellCome Section Start  */}
           <div className="welcome">
             <h1>Welcome To Us !</h1>
             <p className="text-uppercase">Attend out Music School</p>
@@ -73,7 +80,18 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="post-section"></div>
+        {/*========================================================= Service Section Start  */}
+        <div className="service-section">
+          <h1>Service</h1>
+          <p>
+            A variety of musical instruments are taught by world famous artists on this website.
+          </p>
+          <div className="row justify-content-around align-items-center">
+            {services.slice(0, 4).map((service) => (
+              <Service key={service.title} service={service} />
+            ))}
+          </div>
+        </div>
       </div>
     </div>
   );

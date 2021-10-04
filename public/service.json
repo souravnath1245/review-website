@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Piano",
+    "detail": "It is a musical instrument played using a keybord",
+    "price": 39,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwig46DHELaCg-qznZEqprf-1mFJS-kaWMuA&usqp=CAU",
+    "time": "8.00 am - 10 am",
+    "Days": "Saterday, Monday",
+    "master": "Claudio Arrau"
+  },
+  {
+    "title": "Cello",
+    "detail": "The cello is used as a solo musical instrument.",
+    "price": 59,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIy6jrcHPBcP1IsHSSJvOcAWCkexQuT0C0MA&usqp=CAU",
+    "time": "12.00 am - 2.00 pm",
+    "Days": "Sunday, tuesday",
+    "master": "Luigi Boccherini"
+  },
+  {
+    "title": "Double Bass",
+    "detail": "The lowest-pitch bowed string instrument",
+    "price": 49,
+    "img": "https://i.ytimg.com/vi/GZxEw3coVM8/maxresdefault.jpg",
+    "time": "10.00 am - 12.00 am",
+    "Days": " Monday, wednesday",
+    "master": "Rick Clunn"
+  },
+  {
+    "title": "Saxophone",
+    "detail": "The saxophone is a woodwind instrument.",
+    "price": 69,
+    "img": "https://www.udiscovermusic.com/wp-content/uploads/2018/10/Portrait-of-Charlie-Parker-Carnegie-Hall-New-York-N.Y.-ca.-1947-Library-Of-Congress-1000.jpg",
+    "time": "8.00 am - 11.00 am",
+    "Days": "tuesday, thusday",
+    "master": "William P Gottlieb"
+  },
+  {
+    "title": "Voice",
+    "detail": "It is a type of music performed by one or more singers.",
+    "price": 29,
+    "img": "https://wikibio.in/wp-content/uploads/2019/03/Arijit-Singh.jpg",
+    "time": "8.00 am - 10.00 am",
+    "Days": "saterday, thusday",
+    "master": "Arijit-sing"
+  },
+  {
+    "title": "Drums",
+    "detail": "Can pay by striking with the hand or two sticks.",
+    "price": 59,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_avCToUTjYPlEDFYQAFNwKxWt-phhVd5l5he1sgnOIHvwRqYp7aBAQQHMJTvttF6Cec4&usqp=CAU",
+    "time": "7.00 pm - 10.00 pm",
+    "Days": "Monday, wednesday",
+    "master": "Sivamani"
+  },
+  {
+    "title": "Violin",
+    "detail": "The violin has four strings tuned in perfect fifths.",
+    "price": 79,
+    "img": "https://i0.wp.com/stringsmagazine.com/wp-content/uploads/2016/01/violin-bowed-14-steps-for-improving-intonation.jpg?fit=460%2C276&ssl=1",
+    "time": "6.00 pm - 9.00 pm",
+    "Days": "sunday, wednesday",
+    "master": "Dwaram Bhavanarayana Rao"
+  },
+  {
+    "title": "Guitar",
+    "detail": "The guitar is classified as a string instrument",
+    "price": 79,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhSXtv0aKQ4k840pfA-0_pNjrflyCx2s2Rg&usqp=CAU",
+    "time": "6.00 pm - 9.00 pm",
+    "Days": "sunday, wednesday",
+    "master": "Jimi Hendrix"
+  },
+  {
+    "title": "Flute",
+    "detail": "The Flute is striking with the hand or two sticks",
+    "price": 69,
+    "img": "https://qph.fs.quoracdn.net/main-qimg-6d0b171540b7e0923765cc1bb655a3aa",
+    "time": "7.00 pm - 9.00 am",
+    "Days": "sunday, wednesday",
+    "muster": "Hariproshad Chorashiya"
+  }
+]

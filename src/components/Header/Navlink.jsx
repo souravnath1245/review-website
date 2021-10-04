@@ -15,7 +15,7 @@ const Navlink = () => {
     // </div>
     <Navbar className="navbar" bg="light" expand="lg">
       <Container>
-        <Navbar.Brand className='text-uppercase fw-bolder' to="/">Rythmo</Navbar.Brand>
+        <Navbar.Brand className='text-uppercase fw-bolder' to="/home">Rythmo</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
@@ -28,9 +28,10 @@ const Navlink = () => {
             <NavLink className="navlink" to="/event">
               Event
             </NavLink>
-            <NavLink className="navlink" to="/service">
+            <NavLink className="navlink" to="/serviceDetail">
               Service
             </NavLink>
+            
             {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
