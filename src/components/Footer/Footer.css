@@ -1,0 +1,13 @@
+.footer-section{
+    width: 100%;
+    padding: 20px;
+    height: 300px;
+    background-color: black;
+    text-align: center;
+}
+.footer-section h3{
+    color: white;
+}
+.footer-section p{
+    color: #c9af9c;
+}

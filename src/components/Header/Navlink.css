@@ -1,0 +1,9 @@
+
+.navlink {
+  text-decoration: none;
+  margin: 5px 20px;
+  color:black;
+}
+.navlink:hover{
+    color: goldenrod;
+}
